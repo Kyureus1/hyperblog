@@ -39,3 +39,9 @@ body
 {
     padding: 1em;
 }
+#container #lyric
+{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+}
